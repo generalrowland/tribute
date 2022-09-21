@@ -1,0 +1,7 @@
+.myimg{width:300px; height:300px;object-fit:cover;border-radius:50%;}
+row{width:300px;height:300px;background-image:url(Aidenpearce.jpg);background-size:cover;background-position:center;border-radius:50%}
+div > img {text-align: center;} 
+span{margin: 10vw}
+body {font-family: "courier";color: ghostwhite;background-color: slategrey;}
+h2 {display: block;font-size: 1.5em;margin-block-start: 0.83em;margin-block-end: 0.83em;margin-inline-start: 0px;margin-inline-end: 0px;font-weight: bold;}
+a {color: ghostwhite;}
